@@ -1,0 +1,10 @@
+﻿  shop.cpp
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(45,12): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(83,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(105,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(127,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(149,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(171,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(193,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\shop\shop.cpp(215,18): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+  shop.vcxproj -> E:\osamaFolders\OSAMA_UDEMY\VSCOMMUNITY\shop\x64\Debug\shop.exe
